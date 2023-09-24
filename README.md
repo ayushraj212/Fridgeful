@@ -1,6 +1,5 @@
 # fridgeful
-### Ellehacks 2020 Project
-### By: Reem, Ada, Razielle, Thalia
+### By: Ayush Raj
 
 Be fridgeful, not wasteful.*
 
